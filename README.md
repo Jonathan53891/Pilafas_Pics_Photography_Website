@@ -1,2 +1,2 @@
-# Pilafas_Pics_Photography_Website
+# Pilafas_Pics_Website
 This is my photography website. Enjoy!
